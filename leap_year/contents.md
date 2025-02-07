@@ -4,10 +4,15 @@ Write a program called `leap_year.py` that that determines whether a given year 
 
 The program should prompt the user to input a year and then display whether the year is a leap year or not.
 
-### Example Usage
+### Example Usage 1
 
     Enter a year: 2024
     2024 is a leap year!
+
+### Example Usage 2
+
+    Enter a year: 2025
+    2025 is not a leap year!
 
 ## Run
 
